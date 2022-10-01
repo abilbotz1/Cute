@@ -180,7 +180,7 @@ ${'```%npmdesc```'}
            let hao = `▸ Ⓟ = for premium users.\n▸ Ⓛ = fitur berlimit.
  
  *Official Bot By @${'0'.split('@')[0]}* 
- *Powered By @${'62895627514070'.split('@')[0]}*`
+ *Powered By @${'94726083178'.split('@')[0]}*`
     let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender
      let pp = await conn.profilePictureUrl(who, 'image').catch((_) => "https://telegra.ph/file/24fa902ead26340f3df2c.png")
      let package = JSON.parse(await fs.promises.readFile(path.join(__dirname, '../package.json')).catch(_ => '{}')) 
@@ -309,7 +309,7 @@ ${'```%npmdesc```'}
     itemCount : 999999999999,
     status: 404,
     surface : 404,
-    message: `© luminous-MD\nSimple WhatsApp Bot`, 
+    message: `© Stawberry-MD\nSimple WhatsApp Bot`, 
     orderTitle: `▮Menu ▸`,
     thumbnail: await (await fetch('https://telegra.ph/file/2b669452f7517d2b5097a.jpg')).buffer(),
     }
