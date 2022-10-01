@@ -31,9 +31,9 @@ let handler = async(m, { conn }) => {
   return conn.sendButtonDoc(m.chat, `Hay kak @${await m.sender.split('@')[0]}, itu nomor ownerku jangan dispam yah ^_^`, 'Itu Owner Ku Yah Kak Jangan Sungkem Untuk Chat ;3','Credits', '.tqto', m, { quoted: conn.p[id][0],
     contextInfo: { //forwardingScore: 99999, isForwarded: true,
         externalAdReply: { //showAdAttribution: true,
-        	sourceUrl: 'https://wa.me/62895627514070',
+        	sourceUrl: 'https://wa.me/94726083178',
             title: 'Jangan Bully Dia Kang Kopas <3',
-            body: 'Lumimous-md',
+            body: 'Stawberry-md',
           thumbnail: await (await fetch(pp)).buffer()
         }
      }
