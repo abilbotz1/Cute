@@ -1,15 +1,15 @@
 <p align="center">
     <img src="https://telegra.ph/file/f5a56bd7e02ec26b54aa7.jpg" width="50%" height="50%" alt="Relldev"/>
     <br>
-    <a href="https://github.com/RyhnXD"><img title="Created by" src="https://img.shields.io/badge/Creator-Ray San-green?style=for-the-badge&logo=github"></a>
+    <a href="https://github.com/lilybotz"><img title="Created by" src="https://img.shields.io/badge/Creator-Ray San-green?style=for-the-badge&logo=github"></a>
 </p>
 
-# RECODE BY RAYXTZ
+# RECODE BY Lakshan
 
 Simple WhatsApp Bot
 
 <p align="center">
-  <a href="https://github.com/RyhnXD"><img src="http://readme-typing-svg.herokuapp.com?color=7FFF00&center=true&vCenter=true&multiline=false&lines=Simple+Whatsapp+Bot;Base+ori+by+Nurutomo;Give+star+and+forks+this+repo; Script+By+Ray San" alt="UwU">
+  <a href="https://github.com/lilybotz"><img src="http://readme-typing-svg.herokuapp.com?color=7FFF00&center=true&vCenter=true&multiline=false&lines=Simple+Whatsapp+Bot;Base+ori+by+Nurutomo;Give+star+and+forks+this+repo; Script+By+Ray San" alt="UwU">
 </p>
 
 ### Preview bot
